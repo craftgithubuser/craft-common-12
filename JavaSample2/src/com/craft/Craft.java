@@ -9,7 +9,9 @@ public class Craft {
         System.out.println("print somthing"); 
         System.out.println("print somthing"); 
         System.out.println("print somthing");
-       
+        System.out.println("print somthing");
+        System.out.println("print somthing");
+        System.out.println("print somthing");
        
 	}
 
