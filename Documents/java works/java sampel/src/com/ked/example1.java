@@ -13,6 +13,8 @@ public class example1 {
 		System.setOut(null);
 		System.setOut(null);System.setOut(null);
 		System.setOut(null);
+		System.setOut(null);
+		
 		
 	}
 
