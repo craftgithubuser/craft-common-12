@@ -37,8 +37,8 @@
  State: $STATE
  ZIP Code: $ZIP_CODE" >> Customer$F_NAME$L_NAME.txt
 
- # We are so greatful for the pleasure of serving you and hope we met your expectations.
- # Thank you for your business and your trust, it's our pleasure to surve
+ # We are so grateful for the pleasure of serving you and hope we met your expectations.
+ # Thank you for your business and your trust, it's our pleasure to serve you
  elif [ $Status -eq 2 ]; then
  echo "Welcome back and happy to see you again!" 
  read -p "Enter your First Name >> " F_NAME
@@ -54,6 +54,7 @@
  ZIP_CODE3=22333
  ZIP_CODE4=22444
  ZIP_CODE5=22555
+ ZIP_CODE6=22555
 
  # Delivery service and availability zone
  echo "Dear Customers, we provide delivery service within the following area zip codes"
@@ -67,6 +68,7 @@
  echo "3. 22333"
  echo "4. 22444"
  echo "5. 22555"
+ echo "6. 22666"
  echo "----------------------------------------"
  read -p "Please enter your area Zip code to check our delivery service >> " Delivery_Service
  if [[ $Delivery_Service == 22111 ]]; then
@@ -79,6 +81,8 @@
  echo "You may place your order now, and delivery will be there in 30 minutes"
  elif [[ $Delivery_Service == 22555 ]]; then
  echo "You may place your order now, and delivery will be there in 30 minutes"
+ elfi [[ $Delivery_Service == 22666 ]]; then
+ echo "You may place your order now, and delivery will be there in 30 minutes" 
  else
  echo "SORRY! You're not inside our delivery zone and we're sincerely insist for carryout"
  fi
