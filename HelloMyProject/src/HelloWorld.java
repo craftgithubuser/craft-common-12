@@ -19,6 +19,8 @@ public class HelloWorld {
 		int intSalary = (int)salary;
 		System.out.println(FName + " your gender is " + gender + " your salary is " + salary + ", are you craft student? " + craftStudent + ", the double value is "
 		 + num2 + ", your salary in int is " + intSalary);
+		System.out.println(FName + ", Gender = " + gender  + ", salary = " + salary);
+		
 		
 
 		
