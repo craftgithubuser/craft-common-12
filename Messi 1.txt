@@ -1,1 +1,3 @@
-Hello lone file
+What is CLONE in GIT
+
+The git clone is a git command, which creates a clone/copy of an existing repository into a new directory.
