@@ -1,4 +1,4 @@
-What is MERGING in GIT Definition
+What is MERGING In GIT Definition
 
 Git merging combines sequences of commits into one unified history of commits.
 There are two main ways Git will merge: Fast Forward and Three way
