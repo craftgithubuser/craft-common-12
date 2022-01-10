@@ -1,0 +1,3 @@
+What is ECLIPSE In GIT Definition
+
+In the context of computing, Eclipse is an integrated development environment (IDE) for developing applications using the Java programming language and other programming languages such as C/C++, Python, PERL, Ruby etc.
