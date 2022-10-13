@@ -3,3 +3,9 @@ update
 from c-12 branch
 
 from main branch
+
+git status
+git add .
+git status
+git commit -m""
+git push origin main
