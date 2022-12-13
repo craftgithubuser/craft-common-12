@@ -1,2 +1,0 @@
-What is GITHUB DESKTOP
-GitHub Desktop is built and maintained by a team at GitHub and a group of amazing community contributors as an open source application. It is intended primarily to extend the features of GitHub, not to be an agnostic Git client or replicate the feature set of github.com.

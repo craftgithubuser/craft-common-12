@@ -1,4 +1,0 @@
-What is Branch GIT Definition
-
-
-branches create another line of development that is entirely different or isolated from the main stable master branch. There are many advantages to doing so. Consider that you are developing a project with your team, and you finish a featu…
